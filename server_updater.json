@@ -1,0 +1,77 @@
+{
+    "wotVer": "1.0.0.1",
+	"servVer": 1.1,
+	"author": "Ekspoint",	
+	"newDialog":{
+	    "autoPop": false,
+	    "title": "Информация об обновлении модпака", 
+	    "message":[
+ 		    "<br><font color='#FFFF00' size='14'>Текущая версия: {localVer}</font>",
+		    "<br>",
+		    "<font color='#F5F5F5' size='14'>Доступная версия: </font>",
+		    "<font color='#00FF00' size='14'>{servVer}</font>",
+		    "<br>",
+            "<font size='14'>",			
+		    "<br> <font color='#FF914C'>Обновлено:</font>",
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Прицел Destroyer",					
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Прицел Maracasi",		
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Панели повреждений",
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Прицел Тайпан",			
+			"<br>",	
+            "<br> <font color='#96FF00'>Добавлено:</font>",
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Added.png' width='16' height='16' vspace='-27'> - Прицел Бирюза",					
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Added.png' width='16' height='16' vspace='-27'> - Прицел Octagon Mod",		
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Added.png' width='16' height='16' vspace='-27'> - Прицел Воин от Valuhov",
+			"<br>",				
+			"<br> <font color='#4c79ff'>Исправлено:</font>",	
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Ангар Маковое поле",					
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Ангар День Ветерана",		
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Ангар Первая Мировая",			
+		    "<br>",
+            "<br> <font color='#ff3f40'>Удалено:</font>",	
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Delete.png' width='16' height='16' vspace='-27'> - УГН Octagon",					
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Delete.png' width='16' height='16' vspace='-27'> - УГН Мини",		
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Delete.png' width='16' height='16' vspace='-27'> - УГН Скобки",			
+		    "<br>",			
+		    "<br><font color='#F2E002'><b>С уважением, команда разработчиков {author}.</b></font>",
+			"</font>",
+			"<br>",			
+		    "</p>"
+	    ],
+		"typeUrl": "http://goo.gl/yYa7eG",
+		"buttons":{
+		    "submit": "Перейти",
+			"close": "Закрыть"
+	    }	
+	},	
+    "newMessages":{
+		"enable": true,
+		"message":[
+ 		    "<font color='#FF0000' size='16'> Доступна новая версия v.{servVer}</font>",
+            "<textformat tabstops='[130]' leading='2'>",
+		    "<br><font color='#F5F5F5'> ModPack {author} </font>",
+		    "<font size='15' color='#00F5FF'> v.{localVer}</font>",
+		    "</textformat>"		
+	    ],
+		"icon": "../../gui/maps/icons/library/ReferralInviteIcon-1.png",
+		"bgIcon": "../../gui/maps/icons/library/BgPoll-1.png",
+		"lifeTime": 6, 
+		"hidingAnimationSpeed": 4,
+		"typeUrl": "http://goo.gl/yYa7eG",
+		"notificationGroup": 3,
+		"buttonsLayout": [
+			{
+			    "action": "openPopUp",
+                "type": "submit",
+                "label": "Подробнее",
+                "width": 110
+			}, 
+			{
+				"action": "openClose",
+                "type": "cancel",
+                "label": "Не показывать",
+                "width": 110
+			}
+		]
+    }				
+}  
