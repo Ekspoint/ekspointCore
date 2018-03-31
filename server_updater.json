@@ -1,6 +1,6 @@
 {
     "wotVer": "1.0.0.1",
-	"servVer": 1.1,
+	"servVer": 1.0,
 	"author": "Ekspoint",	
 	"newDialog":{
 	    "autoPop": false,
@@ -33,7 +33,7 @@
 		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Delete.png' width='16' height='16' vspace='-27'> - УГН Мини",		
 		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Delete.png' width='16' height='16' vspace='-27'> - УГН Скобки",			
 		    "<br>",			
-		    "<br><font color='#F2E002'><b>С уважением, команда разработчиков {author}.</b></font>",
+		    "<br><font color='#F2E002'><b>С уважением, {author}.</b></font>",
 			"</font>",
 			"<br>",			
 		    "</p>"
