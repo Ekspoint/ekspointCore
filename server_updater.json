@@ -1,6 +1,6 @@
 {
-    "wotVer": "1.0.0.1",
-	"servVer": 1.0,
+    "wotVer": "1.0.0.2",
+	"servVer": 1.1,
 	"author": "Ekspoint",	
 	"newDialog":{
 	    "autoPop": false,
