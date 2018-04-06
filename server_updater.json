@@ -1,6 +1,6 @@
 {
     "wotVer": "1.0.0.2",
-	"servVer": 1.2,
+	"servVer": 1.3,
 	"author": "Ekspoint",	
 	"newDialog":{
 	    "autoPop": false,
@@ -13,7 +13,9 @@
 		    "<br>",
             "<font size='14'>",					
 	    "<br> <font color='#4c79ff'>Исправлено:</font>",	
-		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Вылеты при загрузке",								
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Автоматический фокус цели при наведении",
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Мод определения засвета",
+		    "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Перезарядка в чат",
 		    "<br>",	
 		    "<br><font color='#F2E002'><b>С уважением, {author}.</b></font>",
 			"</font>",
