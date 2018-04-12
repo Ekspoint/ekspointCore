@@ -21,7 +21,7 @@
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Added.png' width='16' height='16' vspace='-27'> - Онлайн игроков и пинг в ангаре (без XVM)",					
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Added.png' width='16' height='16' vspace='-27'> - Расширенные всплывающие подсказки танков в ангаре",		
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Added.png' width='16' height='16' vspace='-27'> - Рейтинг wn8 и eff в статистике игрока",
-		    //"<br>",				
+		    // "<br>",				
 	             "<br> <font color='#4c79ff'>Исправлено:</font>",	
 		     "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - BVM отлетающий урон без XVM",					
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Ангар День Ветерана",		
