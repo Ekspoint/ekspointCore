@@ -3,5 +3,5 @@
     "wotkit": true,
     "wotshop": true,
     "awotikarti": true,
-    "wot_leader": true
+    "wot_leader": false
 }
