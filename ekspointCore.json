@@ -1,7 +1,7 @@
 {
     "noSpam": ["ZWp5UlRbcUJbAwZEeXFVCg==", "ZAFhWG9hT21bA3RY"],
-    "wotkit": true,
-    "wotshop": true,
+    "wotkit": false,
+    "wotshop": false,
     "awotikarti": true,
     "wot_leader": false
 }
