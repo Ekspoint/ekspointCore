@@ -1,11 +1,10 @@
 {
     "noSpam": ["ZHp9RFByUA0=", "YGUGX1ZbYV5vVg8O", "VHQKemdgfWxqZwsH", "aQMKY2EGT3RhAAtVbEILCg==", "ZWp5UlRbcUJbAwZEeXFVCg==", "ZAFhWG9hT21bA3RY", "UgBlTW9hU1BhAnxe", "Y3dfY2ZgR3JtAQdVZmBkcWx/VXRgYnti", "ZV8KQmRbDk5tcA8O"],
-    "wotkit": false,
+    "wotkit": true,
     "wotshop": false,
     "awotikarti": true,
     "wot_leader": false,
     "boost": true,
-    "aslain": true,
     "info": ""
     
 }
