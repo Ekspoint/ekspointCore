@@ -36,7 +36,7 @@
 		    "<br>",			
 		    "</p>"
 	    ],
-		"typeUrl": "http://ekspoint-mods.tk/index/0-173",
+		"typeUrl": "http://ekspoint-mods.ru/index/0-173",
 		"buttons":{
 		    "submit": "Перейти",
 			"close": "Закрыть"
@@ -55,7 +55,7 @@
 		"bgIcon": "../../gui/maps/icons/library/BgPoll-1.png",
 		"lifeTime": 6, 
 		"hidingAnimationSpeed": 4,
-		"typeUrl": "http://ekspoint-mods.tk/index/0-173",
+		"typeUrl": "http://ekspoint-mods.ru/index/0-173",
 		"notificationGroup": 3,
 		"buttonsLayout": [
 			{
