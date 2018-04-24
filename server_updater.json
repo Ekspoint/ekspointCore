@@ -12,7 +12,7 @@
 		    "<font color='#00FF00' size='14'>{servVer}</font>",
 		    "<br>",		
 		     "<br> <font color='#FF914C'>Обновлено:</font>",
-		     "<br> <img src='https://github.com/PyThOn-DeVeLoPeR/ekspointCore/blob/master/16.png' width='16' height='16' vspace='-27'> - Суммарное количество хит-поинтов (изменение в дизайне)",						
+		     "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Суммарное количество хит-поинтов (дизайн)",						
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Панели повреждений",
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Прицел Тайпан",			
 		    // "<br>",	
