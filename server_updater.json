@@ -1,6 +1,6 @@
 {
     "wotVer": "1.0.2.1",
-	"servVer": 3.2,
+	"servVer": 3.3,
 	"author": "Ekspoint",	
 	"newDialog":{
 	    "autoPop": false,
@@ -12,7 +12,7 @@
 		    "<font color='#00FF00' size='14'>{servVer}</font>",
 		    "<br>",		
 		     "<br> <font color='#FF914C'>Обновлено:</font>",
-		     "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Релиз к 1.0.2.1",			
+		     "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Все звуковые моды",			
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Панели повреждений",
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Прицел Тайпан",			
 		    // "<br>",	
