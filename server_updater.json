@@ -1,6 +1,6 @@
 {
     "wotVer": "1.0.2.1",
-	"servVer": 3.5,
+	"servVer": 3.6,
 	"author": "Ekspoint",	
 	"newDialog":{
 	    "autoPop": false,
@@ -11,8 +11,8 @@
 		    "<font color='#F5F5F5' size='14'>Доступная версия: </font>",
 		    "<font color='#00FF00' size='14'>{servVer}</font>",
 		    "<br>",		
-		     "<br> <font color='#FF914C'>Обновлено:</font>",
-		     "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Все звуковые моды",			
+		    // "<br> <font color='#FF914C'>Обновлено:</font>",
+		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Все звуковые моды",			
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Панели повреждений",
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Update.png' width='16' height='16' vspace='-27'> - Прицел Тайпан",			
 		    // "<br>",	
@@ -22,7 +22,7 @@
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Added.png' width='16' height='16' vspace='-27'> - Рейтинг wn8 и eff в статистике игрока",
 		    // "<br>",				
 	             "<br> <font color='#4c79ff'>Исправлено:</font>",					
-		     "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Загрузчик звуков (не давал войти в бой)",		
+		     "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Ускорение прокрутки скролла",		
 		    // "<br> <img src='img://../../mods/configs/ekspoint/updater/Corrected.png' width='16' height='16' vspace='-27'> - Ангар Первая Мировая",			
 		    // "<br>",
                     // "<br> <font color='#ff3f40'>Удалено:</font>",	
